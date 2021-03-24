@@ -1,6 +1,7 @@
 ACMP.RU Solutions
 
-**Результат** | **Всего**
+**Result** | **Total**
+:--- | ---:
 **Accepted** | 11
 Wrong answer | 6
 Time limit exceeded | 0
