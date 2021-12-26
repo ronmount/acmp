@@ -1,4 +1,4 @@
-with open('../INPUT.TXT', 'r') as f:
+with open('INPUT.TXT', 'r') as f:
     nums = list(map(int, f.readline().split()))
     k = nums[0]
     n = nums[1]
@@ -7,5 +7,5 @@ with open('../INPUT.TXT', 'r') as f:
     for i in range(1, n + 1):
         arr.append(sum(arr[max(0, i-k):i]))
 
-    with open('../OUTPUT.TXT', 'w') as o:
+    with open('OUTPUT.TXT', 'w') as o:
         o.write(str(arr[n]))
