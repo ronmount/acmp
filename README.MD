@@ -2,10 +2,10 @@ ACMP.RU Solutions
 
 **Result** | **Total**
 :--- | ---:
-**Accepted** | 16
-Wrong answer | 9
+**Accepted** | 42
+Wrong answer | 17
 Time limit exceeded | 0
-Presentation Error | 3
+Presentation Error | 7
 Compilation error | 2
 Memory limit exceeded | 0
-Runtime error | 11
+Runtime error | 14
